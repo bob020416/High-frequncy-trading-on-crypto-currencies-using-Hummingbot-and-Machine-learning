@@ -15,7 +15,6 @@ https://hummingbot.org/
 
 高頻交易做市假設
 https://zhuanlan.zhihu.com/p/74919481
-这个假设很有意思，当做市商在有信息发布时会拉大spread，愿意付出高额成本持有单子的人，只能是rookie或者拥有信息优势者(至少能保证cover这个spread)，然后做市商系统发现受伤后又近一步拉高spread或者上移ask，导致瞬时价差发生巨幅的上涨
 
 
 
